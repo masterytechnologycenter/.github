@@ -14,5 +14,5 @@ un LLD détaillé et les diagrammes.
 | AUT · Automatisation | Python, Ansible, NETCONF |
 | CAS · Cas pratiques | Scénarios multi-domaines |
 
-📘 Documentation : https://masterytech.github.io/network-labs/
+📘 Documentation : https://masterytechnologycenter/.github.io/network-labs/
 ▶️ YouTube · 🎵 TikTok · 💼 LinkedIn · ☕ Ko-fi
