@@ -1,4 +1,4 @@
-![Mastery Tech Center](https://raw.githubusercontent.com/masterytechtechnologycenter/.github/main/profile/banner-1280x320.png)
+![Mastery Tech Center](https://github.com/masterytechnologycenter/.github/blob/main/profile/banner-1280x320.png)
 
 **Labs réseau et sécurité reproductibles sur PnetLab et EVE-NG.**
 Chaque lab fournit la topologie, les configurations initiales et finales,
